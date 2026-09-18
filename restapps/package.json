@@ -24,5 +24,8 @@
   "main": "index.js",
   "scripts": {
     "test": "none"
+  },
+  "dependencies": {
+    "mongoose": "^9.10.1"
   }
 }
