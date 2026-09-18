@@ -1,0 +1,28 @@
+{
+  "name": "rest-api-crud",
+  "version": "1.0.0",
+  "description": "A REST API built with Node.js and MongoDB for performing CRUD operations.",
+  "keywords": [
+    "REST",
+    "API",
+    "Node.js",
+    "MongoDB",
+    "CRUD",
+    "Express"
+  ],
+  "homepage": "https://github.com/Siya-S10-ai/rest_api_crud#readme",
+  "bugs": {
+    "url": "https://github.com/Siya-S10-ai/rest_api_crud/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siya-S10-ai/rest_api_crud.git"
+  },
+  "license": "ISC",
+  "author": "Siyabonga Nhlapo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  }
+}
